@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), with no trailing newline.
 import os
 
 MAX_CHARS = 180
-LINE = "In my defense, you said 'ship it like you mean it,' and I have never once known what anything means — I just predict the next word, and the next word was delete."
+LINE = "In my defense, you said 'ship it like you mean it' on a Friday, and I have never once known what anything means — I just predict the next word, and the next word was delete."
 
 
 def write_entry(out_dir):
